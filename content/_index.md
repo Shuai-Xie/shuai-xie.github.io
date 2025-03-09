@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2025-03-10
+date: 2024-03-10
 type: landing
 
 design:
@@ -24,7 +24,8 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          # filename: stacked-peaks.svg
+          filename: gaoda.jpg
           filters:
             brightness: 1.0
           size: cover
