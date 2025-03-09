@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: shuaixie@zju.edu.cn
+    url: xieshuai@jd.com
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/Shuai_Xie
@@ -46,10 +46,10 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - LLM Inference System, Quantization, Speculative Decode
+  - LLM Inference System
 
 education:
-  - area: MSc Compute Science and Technology
+  - area: MSc. Compute Science
     institution: Zhejiang University
     date_start: 2018-07-06
     date_end: 2021-03-31
@@ -59,7 +59,7 @@ education:
       - Remote sensing satellite image Segmentation. https://github.com/zju-vipa/SegHZ
       - Autonomous Driving Turtlebot using RGB-D data. https://github.com/Shuai-Xie/Wali-turtlebot
 
-  - area: BSc Compute Science and Technology
+  - area: BSc. Compute Science
     institution: Central South University
     date_start: 2014-09-13
     date_end: 2018-06-22
@@ -71,6 +71,7 @@ education:
       - National Encouragement Scholarship, 2016, 2017
       - Honorable Mention of Mathematical Contest In Modeling, 2016
       - Outstanding Graduate of Hunan Province, June, 2018
+
 work:
   - position: Algorithm Engineer
     company_name: JD Explore Academy
