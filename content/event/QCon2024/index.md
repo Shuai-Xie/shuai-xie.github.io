@@ -43,7 +43,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
 # url_pdf: ''
-url_slides: 'static/events/QCon2024_slides.pdf'
+url_slides: 'events/QCon2024_slides.pdf'
 # url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
