@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: 'Large Language Model Inference System'
       text: |-
-        I'm an algorithm and system engineer in the Omninfer team at JD Explore Academy. I blog about practical large language model inference technologies, including Post-Training Quantization, Speculative Decoding and Prefill-Decode Disaggregation.
-
-        I apply a range of qualitative and quantitative methods to comprehensively accelerate the inference speed and cut off the cost of large language models.
+        I'm an algorithm and system engineer in the Omninfer team at JD Explore Academy. We apply a range of qualitative and quantitative methods to comprehensively accelerate the inference speed and cut off the cost of large language models, including Post-Training Quantization, Speculative Decoding and Prefill-Decode Disaggregation.
         
         Please reach out to collaborate 😃
     design:
