@@ -25,7 +25,7 @@ sections:
         image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
-          filename: gaoda8.png
+          filename: gaoda5.png
           filters:
             brightness: 1.0
           size: cover
