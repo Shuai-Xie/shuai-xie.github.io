@@ -42,8 +42,8 @@ featured: false
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-url_pdf: 'static/events/DA2024_slides.pdf'
-# url_slides: 'https://slideshare.net'
+# url_pdf: ''
+url_slides: 'static/events/DA2024_slides.pdf'
 # url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
