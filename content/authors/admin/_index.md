@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 谢帅
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shuai Xie
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: XIE
+last_name: SHUAI
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😇
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,72 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: LLM Inference Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: JD
+    url: https://jd.com/
+  - name: Zhejiang University
+    url: https://zju.edu.cn/
+  - name: Central South University
+    url: https://csu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: shuaixie@zju.edu.cn
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/Shuai_Xie
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Shuai-Xie
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/%E5%B8%85-%E8%B0%A2-b170ab12b/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=DzyIoEMAAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-8692-6792
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - LLM Inference System, Quantization, Speculative Decode
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Compute Science and Technology
+    institution: Zhejiang University
+    date_start: 2018-07-06
+    date_end: 2021-03-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Research projects:
+      - Active Learning for Segmentation. https://github.com/Shuai-Xie/DEAL
+      - Remote sensing satellite image Segmentation. https://github.com/zju-vipa/SegHZ
+      - Autonomous Driving Turtlebot using RGB-D data. https://github.com/Shuai-Xie/Wali-turtlebot
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Compute Science and Technology
+    institution: Central South University
+    date_start: 2014-09-13
+    date_end: 2018-06-22
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.6/4.0
+
+      Awards included:
+      - National Scholarship, 2015
+      - National Encouragement Scholarship, 2016, 2017
+      - Honorable Mention of Mathematical Contest In Modeling, 2016
+      - Outstanding Graduate of Hunan Province, June, 2018
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Algorithm Engineer
+    company_name: JD Explore Academy
+    company_url: 'https://www.jdcloud.com/cn/explore'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-03-22
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - LLM Inference System, Quantization, Speculative Decode
+      - OmniForce: On Human-Centered, Large Model Empowered and Cloud-Edge Collaborative AutoML System
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -120,7 +100,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: CUDA
         description: ''
         percent: 40
         icon: circle-stack
@@ -143,11 +123,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 70
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -171,16 +149,8 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shuai Xie is an Algorithm Engineer at JD Explore Academy and the leading member of the Inference Team in the Systems and Foundation Models Department. He is dedicated to the research and development of efficient inference technologies for JD’s foundational large models, as well as the collaborative optimization of training-side technologies. He has led and participated in the development of JD’s self-developed integrated inference deployment framework, which has been applied across various business scenarios within JD.
