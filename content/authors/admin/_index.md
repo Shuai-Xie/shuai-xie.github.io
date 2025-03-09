@@ -55,9 +55,9 @@ education:
     date_end: 2021-03-31
     summary: |
       Research projects:
-      - Active Learning for Segmentation. https://github.com/Shuai-Xie/DEAL
-      - Remote sensing satellite image Segmentation. https://github.com/zju-vipa/SegHZ
-      - Autonomous Driving Turtlebot using RGB-D data. https://github.com/Shuai-Xie/Wali-turtlebot
+      - [DEAL](https://github.com/Shuai-Xie/DEAL): Difficulty-aware Active Learning for Semantic Segmentation.
+      - [SegHZ](https://github.com/zju-vipa/SegHZ): Remote sensing satellite image Segmentation.
+      - [Wali-turtlebot](https://github.com/Shuai-Xie/Wali-turtlebot): Autonomous Driving Turtlebot using RGB-D data.
 
   - area: BSc. Compute Science
     institution: Central South University
