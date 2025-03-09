@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 谢帅
+title: Shuai Xie
 
 # Name pronunciation (optional)
-name_pronunciation: Shuai Xie
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: XIE
@@ -24,12 +24,8 @@ role: LLM Inference Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: JD
-    url: https://jd.com/
-  - name: Zhejiang University
-    url: https://zju.edu.cn/
-  - name: Central South University
-    url: https://csu.edu.cn/
+  - name: JD Explore Academy
+    url: https://www.jdcloud.com/cn/explore
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -80,12 +76,18 @@ work:
     company_name: JD Explore Academy
     company_url: 'https://www.jdcloud.com/cn/explore'
     company_logo: ''
-    date_start: 2021-03-22
+    date_start: 2023-03-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - LLM Inference System, Quantization, Speculative Decode
-      - OmniForce: On Human-Centered, Large Model Empowered and Cloud-Edge Collaborative AutoML System
+      LLM Inference System, Quantization, Speculative Decode
+  - position: Algorithm Engineer
+    company_name: JD Explore Academy
+    company_url: 'https://www.jdcloud.com/cn/explore'
+    company_logo: ''
+    date_start: 2021-03-22
+    date_end: 2023-02-27
+    summary: |2-
+      OmniForce: On Human-Centered, Large Model Empowered and Cloud-Edge Collaborative AutoML System
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
